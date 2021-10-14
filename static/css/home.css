@@ -1,0 +1,10 @@
+/* One way to resize the Flask image */
+.resize {
+    width: 400px;
+    height: auto;
+}
+
+.resize {
+    width: 300px;
+    height: auto;
+}
