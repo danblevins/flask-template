@@ -1,8 +1,6 @@
-from flask import Flask, redirect, url_for, render_template, request, json
-import pandas as pd
-import numpy as np
+from flask import Flask, render_template
 
-app=Flask(__name__)
+app = Flask(__name__)
 
 ### Web Pages ###
 @app.route("/")
