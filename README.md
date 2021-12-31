@@ -1,4 +1,4 @@
-# Flask Template
+# 🐍 Python Flask Template
 
 ## About this Template
 
